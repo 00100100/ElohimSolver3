@@ -23,4 +23,6 @@ size it encountered. This is checked before looking around the board for the bub
 
 Feel free to improve this work.
 
+I used Eclipse to make this. Download this code and import it to your Eclipse to run it.
+
 LK00100100@gmail.com
